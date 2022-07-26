@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+
+        Las variables son datos que se 'guardan' en el codigo para usarlos en un futuro.
+
+ * Strings
+
+        Los 'Strings' son tipos de datos aceptados por el lenguaje que estan formados por caracteres alfanumericos, simbolos y espacios en blanco, siempre y cuando esten contenidos por '' o "". Son valores que, en rasgos generales, son texto.
+
+ * Funciones (argumentos, `return`)
+
+        LAs funciones son basicamente las instrucciones que le damos al programa para que haga cosas. Estas instrucciones vienen junto con sus valores (Que son aquelos datos que queremos manipular con estas funciones).
+
+ * Declaraciones `if`
+
+        Esto es una keyword que usamos dentro de una funcion cuando queremos que el programa haga algo SI un dato X cumple con determinada condicion. el IF se traduce como un SI como cuando decimos: 'SI no llueve, entonces vamos a jugar al futbol'
+
+ * Valores booleanos (`true`, `false`)
+
+        Son valores que pueden tener solo dos estados, o TRUE o FALSE, y se usan para chequear cuando una condicion se cumple o no.
+
