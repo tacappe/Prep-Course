@@ -11,7 +11,7 @@ function obtenerMayor(x, y) {
   else (x < y) {
     return y ;
   }
-   return x || y
+  return x || y
 }
 
 function mayoriaDeEdad(edad) {
